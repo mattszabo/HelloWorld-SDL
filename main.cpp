@@ -1,4 +1,4 @@
-#include "/opt/SDL2/SDL/include/SDL.h"
+#include "SDL.h"
 #include "main.h"
 
 // The window we'll be rendering to
